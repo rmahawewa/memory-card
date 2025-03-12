@@ -4,7 +4,6 @@ import "../styles/style.css";
 
 export default function MemCard(){
     const [data, setData] = useState([]);
-    const [info, setInfo] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [selectedItemId, setSelectedItemId] = useState('');

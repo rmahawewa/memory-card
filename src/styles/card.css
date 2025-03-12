@@ -14,3 +14,13 @@
 .lbl-name{
     padding-bottom: 3rem;
 }
+
+img{
+    width: 10rem;
+    height: 12rem;
+    background-color: antiquewhite;
+    border-radius: 0.4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-top: 1rem;
+}

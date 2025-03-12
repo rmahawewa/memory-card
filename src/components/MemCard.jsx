@@ -98,7 +98,7 @@ export default function MemCard(){
                 
                 <div className="row-one">
                         <div className="info">
-                            <h1>Memory Game</h1>
+                            <h1>Pokemon's Memory Game</h1>
                             <h4>Get points by clicking on a pokemon but don't click on any more than once!</h4>
                         </div>
                         <div className="info score">

@@ -11,6 +11,10 @@
     border-radius: 0.4rem;
 }
 
+.card:hover{
+    box-shadow: 5px 5px 15px 0px rgba(1, 208, 109, 0.6);
+}
+
 .lbl-name{
     padding-bottom: 3rem;
 }
